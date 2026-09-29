@@ -1,0 +1,6 @@
+[submodule "repositries/engine"]
+	path = repositries/engine
+	url = https://github.com/kyo-kan-ecosystem/kyo-kan-engine.git
+[submodule "repositries/presets"]
+	path = repositries/presets
+	url = https://github.com/kyo-kan-ecosystem/presets.git
