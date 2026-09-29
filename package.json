@@ -1,0 +1,16 @@
+{
+  "name": "@kyo-kan/workingrepositry",
+  "version": "1.0.0",
+  "description": "",
+  "license": "AGPL-3.0-or-later",
+  "author": "HagiwaraTakayuki",
+  "type": "commonjs",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "workspaces": [
+    "./repositries/engine",
+    "./repositries/presets"
+  ]
+}
