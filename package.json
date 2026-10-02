@@ -12,5 +12,10 @@
   "workspaces": [
     "./repositries/engine",
     "./repositries/presets"
-  ]
+  ],
+  "devDependencies": {
+    "chai": "^6.3.0",
+    "mocha": "^12.0.3",
+    "sinon": "^22.1.0"
+  }
 }
