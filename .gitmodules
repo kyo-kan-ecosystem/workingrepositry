@@ -4,3 +4,6 @@
 [submodule "repositries/presets"]
 	path = repositries/presets
 	url = https://github.com/kyo-kan-ecosystem/presets.git
+[submodule "repositries/sdk"]
+	path = repositries/sdk
+	url = https://github.com/kyo-kan-ecosystem/sdk.git
