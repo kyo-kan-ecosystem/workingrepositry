@@ -11,7 +11,8 @@
   },
   "workspaces": [
     "./repositries/engine",
-    "./repositries/presets"
+    "./repositries/presets",
+    "./repositries/sdk"
   ],
   "devDependencies": {
     "chai": "^6.3.0",
